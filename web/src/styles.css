@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.native-field {
+  width: 100%;
+  min-height: 40px;
+  border: 1px solid var(--chakra-colors-border);
+  border-radius: 8px;
+  padding: 0 12px;
+  background: var(--chakra-colors-bg);
+  color: var(--chakra-colors-fg);
+}

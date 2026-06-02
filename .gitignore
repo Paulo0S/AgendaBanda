@@ -1,0 +1,15 @@
+# Java
+backend/target/
+
+# Node
+web/node_modules/
+web/dist/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment
+.env
+*.log
