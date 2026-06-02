@@ -237,9 +237,13 @@ GET    /api/cidades
 
 ---
 
-# 👨‍💻 Desenvolvedores
+# 👨‍💻 Construtores (Porque construimos o projeto :D)
 
 **System of a dev**
+* Eduardo R. R. N. - Tester/Documentacao
+* Lorena A. T. - Project Manager
+* Paulo S. S. = Main Developer
+* Roberto B. F. - Documentacao/Tester
 
 Projeto desenvolvido para o Projeto de Extensão Comunitária do 3º semestre.
 
@@ -252,3 +256,4 @@ Projeto desenvolvido para o Projeto de Extensão Comunitária do 3º semestre.
 * Relatórios de eventos
 * Notificações automáticas
 * Deploy em ambiente definitivo
+* Envio de mensagens via Whatsapp
